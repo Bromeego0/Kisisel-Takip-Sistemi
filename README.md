@@ -105,7 +105,7 @@ Hataları bildir ya da özellik öner!
 
 ## 📄 Lisans
 
-Bu proje özel kullanım içindir.
+Direkt Indirip Kullanabilirsiniz.
 
 ---
 
