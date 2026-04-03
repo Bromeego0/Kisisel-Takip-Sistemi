@@ -1,0 +1,22 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+*.swp
+
+# Flutter SDK (local copy)
+flutter/
+
+# Pub
+.pub-cache/
+.pub/
